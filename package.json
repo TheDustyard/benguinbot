@@ -1,0 +1,19 @@
+{
+  "name": "penguinbot",
+  "version": "0.1.1",
+  "description": "A coin bot for club penguin",
+  "main": "app.js",
+  "author": "DusterTheFirst",
+  "license": "GPL-V3",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "jimp": "^0.2.28",
+    "webdriverio": "^4.8.0",
+    "yargs": "^9.0.1"
+  },
+  "bin": {
+    "cpb": "app",
+    "minediamonds": "app",
+    "gimmiecoin": "app"
+  }
+}
